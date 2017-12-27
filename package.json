@@ -1,0 +1,95 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-spotlight-search",
+        "scope": null,
+        "escapedName": "react-native-spotlight-search",
+        "name": "react-native-spotlight-search",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/quentinvalmori/Sites/BugRNInTeach/Webapp3"
+    ]
+  ],
+  "_from": "react-native-spotlight-search@latest",
+  "_id": "react-native-spotlight-search@0.2.1",
+  "_inCache": true,
+  "_location": "/react-native-spotlight-search",
+  "_nodeVersion": "5.12.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-spotlight-search-0.2.1.tgz_1476302705741_0.41272278828546405"
+  },
+  "_npmUser": {
+    "name": "jdmunro",
+    "email": "me@jdmunro.net"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-spotlight-search",
+    "scope": null,
+    "escapedName": "react-native-spotlight-search",
+    "name": "react-native-spotlight-search",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-spotlight-search/-/react-native-spotlight-search-0.2.1.tgz",
+  "_shasum": "b648aa6835a95827b67c0d8d97cd33e7c0cbefc3",
+  "_shrinkwrap": null,
+  "_spec": "react-native-spotlight-search",
+  "_where": "/Users/quentinvalmori/Sites/BugRNInTeach/Webapp3",
+  "author": {
+    "name": "James Munro",
+    "email": "me@jdmunro.net"
+  },
+  "bugs": {
+    "url": "https://github.com/jdmunro/react-native-spotlight-search/issues"
+  },
+  "dependencies": {},
+  "description": "A React Native module for iOS that provides Spotlight search functionality.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b648aa6835a95827b67c0d8d97cd33e7c0cbefc3",
+    "tarball": "https://registry.npmjs.org/react-native-spotlight-search/-/react-native-spotlight-search-0.2.1.tgz"
+  },
+  "gitHead": "c11d955d4f079b63e82cf84f25107982b9085307",
+  "homepage": "https://github.com/jdmunro/react-native-spotlight-search#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "ios",
+    "spotlight",
+    "search"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jdmunro",
+      "email": "me@jdmunro.net"
+    }
+  ],
+  "name": "react-native-spotlight-search",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": "^0.28.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmunro/react-native-spotlight-search.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
+}

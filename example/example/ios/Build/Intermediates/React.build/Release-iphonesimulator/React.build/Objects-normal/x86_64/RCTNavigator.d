@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTNavigator.m \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTNavigator.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Layout/Layout.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTView.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/jamesmunro/Documents/workspacernf/react-native-spotlight-search/example/example/node_modules/react-native/React/Views/UIView+React.h
