@@ -1,5 +1,5 @@
 export default {
   getInitialSearch: () => ({}),
   indexItem: () => ({}),
-  getInitialSearch: () => ({ then: () => null })
+  getInitialSearch: () => new Promise(resolve => resolve(null))
 };
